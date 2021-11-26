@@ -50,8 +50,8 @@
 
     <div class="video-overlay header-text">
         <div class="caption">
-            <h2 class="animate__animated animate__fadeInDown"><em>Sitas</em></h2>
-            <h6 class="animate__animated animate__fadeInUp">Pengolahan Tanah Asset Desa Secara Digital</h6>
+            <h2 class="animate__animated animate__fadeInDown"><em>Sitas Desa</em></h2>
+            <h6 class="animate__animated animate__fadeInUp">Sistem Informasi Tanah Asset Desa</h6>
             <div class="animate__animated animate__fadeInUp">
                 <a href="https://sitas-sidoarjokab.urbanspasial.co.id/webgis/main">
                     <button class="main-btn"><span>Explore!</span></button>
