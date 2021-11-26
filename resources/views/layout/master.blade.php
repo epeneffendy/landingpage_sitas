@@ -9,7 +9,7 @@
     <link href="https://fonts.googleapis.com/css?family=Montserrat:100,200,300,400,500,600,700,800,900"
           rel="stylesheet">
 
-    <title>Sistem Informasi Tanah Asset</title>
+    <title>Sitas Desa</title>
 
     <link href="{{asset('/vendor/bootstrap/css/bootstrap.min.css')}}" rel="stylesheet">
     <link href="{{ asset('/css/fontawesome.css') }}" rel="stylesheet">
@@ -31,7 +31,7 @@
 <header class="main-header clearfix" role="header" data-aos="fade-down" data-aos-easing="linear"
         data-aos-duration="1500">
     <div class="logo">
-        <a href="#"><em>Sitas</em> Sidoarjo</a>
+        <a href="#"><em>Sitas</em> Desa</a>
     </div>
     <a href="#menu" class="menu-link"><i class="fa fa-bars"></i></a>
     <nav id="menu" class="main-nav" role="navigation">

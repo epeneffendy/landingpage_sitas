@@ -336,7 +336,7 @@ a.menu-link {
 
 .main-banner .caption h6 {
     margin-top: 0px;
-    font-size: 18px;
+    font-size: 25px;
     text-transform: uppercase;
     /*font-weight: 600;*/
     color: #f4ffef;
@@ -347,7 +347,7 @@ a.menu-link {
 .main-banner .caption h2 {
     margin-top: 30px;
     margin-bottom: 30px;
-    font-size: 64px;
+    font-size: 90px;
     font-family: "fontHeader";
     /*text-transform: uppercase;*/
     font-weight: 800;
